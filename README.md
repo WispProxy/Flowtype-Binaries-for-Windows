@@ -4,13 +4,13 @@ This site contains binary versions of Flow (Flowtype), the Javascript type-check
 
 # Installation
 
-To install, pick one of the two binaries (./bin/flow32.exe or ./bin/flow64.exe) in the archive, depending on your architecture.
+To install, pick flow.exe in the archive.
   
 Refer to Flow documentation for use (http://flowtype.org/).
 
 # Latest version
 
-Flow compiled on Nov 27, 2014, commit 33155d2065a021851151a8b96e7af7a8c2ab90de
+Flow compiled on Dec 11, 2015, commit a3dad7000a2bfbe8d60e1c6b8ce45a46a13fd0ce
 
 # Known issues
 
